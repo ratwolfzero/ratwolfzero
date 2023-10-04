@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ratwolfzero
 - 👀 I’m interested in fractals, strange attractors, collatz-sequence and programming in Julia, Python and Rust.
-- 🌱 I’m currently learning the Rust language. I am using Geany, VS code for MacOS with extensions CodeLLDB, crates, Rust-Analyzer, and vscode-rustfmt, Julia, Python and Pylance.
+- 🌱 I’m currently learning the Rust language. I am using Geany, VS code for MacOS with extensions CodeLLDB, crates, Rust-Analyzer, vscode-rustfmt, Julia, Python and Pylance.
 - 📫 How to reach me ratwolf@duck.com
 
 <!---
