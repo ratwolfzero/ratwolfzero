@@ -1,5 +1,5 @@
 - 👋 Hi my name is Ralf, 
-- 👀 I’m interested in fractals, strange attractors, collatz-sequence and programming in Julia, Python and Rust.
+- 👀 I’m interested in fractals, strange attractors, collatz-sequence... and programming in Julia, Python and Rust.
 - 🌱 I’m currently learning the Rust language. I am using Geany and VS code for MacOS.
 - 📫 How to reach me ratwolf@duck.com
 
