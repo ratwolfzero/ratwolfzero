@@ -7,4 +7,4 @@ my name is Ralf
 - 📫 How to reach me: ratwolf@duck.com
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ratwolfzero&repo=github-readme-stats)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/ratwolfzero/hopalong_python))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ratwolfzero&repo=[github-readme-stats](https://github.com/ratwolfzero/hopalong_python))]]
