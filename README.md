@@ -4,7 +4,6 @@
 the ideas, like the colors or the words, must fit together in a harmonious way.  
 Beauty is the first test: there is no permanent place in this world for ugly mathematics." – G. H. Hardy (1877–1947)
 
-
 Welcome to this collection of **mathematical visualizations, chaos theory explorations, and fractal-based simulations**!  
 🌀 Dive into the mesmerizing world of dynamical systems, bifurcations, and computational mathematics.
 
@@ -14,19 +13,22 @@ Welcome to this collection of **mathematical visualizations, chaos theory explor
 
 - [📌 Introduction](#-introduction)
 - [🔬 Mathematical Background](#-mathematical-background)
-- [🖥️ Selection of Projects Included](#-selection-of-projects-included)
+- [🖥️ Selection of Projects Included](#️-selection-of-projects-included)
 - [🧠 Behind the Math](#-behind-the-math)
 
 ---
 
 ## 📌 Introduction
+
 This repository is a **playground for mathematical beauty**, featuring computational simulations and visualizations.  
 Explore topics like **fractals, bifurcations, cellular automata, attractors, and numerical analysis.**
 
 ---
 
 ## 🔬 Mathematical Background
+
 This repository covers concepts from **chaos theory, dynamical systems, and mathematical visualization**:
+
 - 🌿 **Fractals**: Mandelbrot
 - 🔄 **Attractors**: Lorenz, Hopalong, Henon Map
 - 🔢 **Chaos & Bifurcations**: Logistic Map, Feigenbaum Constant
@@ -60,14 +62,12 @@ Each project provides insights into how mathematics governs complex behavior in 
 ---
 
 ## 🧠 Behind the Math
+
 Mathematical concepts explained in simple terms:
 
 - **What is Chaos?** A system highly sensitive to initial conditions (e.g., Lorenz Attractor 🌀).
 - **What is a Fractal?** A self-similar structure at different scales (e.g., Mandelbrot Set 🌿).
 - **What is Bifurcation?** A sudden qualitative change in system behavior as a parameter varies (e.g., Logistic Map 📈).
 
-Each project includes explanations and references! 📖✨
-
-🚀 **Enjoy exploring the world of mathematical beauty!** 🚀
-
+🚀 **Enjoy exploring the world of mathematical beauty!** 🚀# 🌌 Exploring Chaos, Fractals & Beyond
 
