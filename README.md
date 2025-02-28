@@ -69,5 +69,5 @@ Mathematical concepts explained in simple terms:
 - **What is a Fractal?** A self-similar structure at different scales (e.g., Mandelbrot Set 🌿).
 - **What is Bifurcation?** A sudden qualitative change in system behavior as a parameter varies (e.g., Logistic Map 📈).
 
-🚀 **Enjoy exploring the world of mathematical beauty!** 🚀# 🌌 Exploring Chaos, Fractals & Beyond
+🚀 **Enjoy exploring the world of mathematical beauty!** 🚀
 
