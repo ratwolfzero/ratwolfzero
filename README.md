@@ -49,7 +49,7 @@ Each project provides insights into how mathematics governs complex behavior in 
 | [**Cryptography**](https://github.com/ratwolfzero/Crypto) | Mathematical explorations in cryptography |
 | [**DLA Aggregation**](https://github.com/ratwolfzero/DLA) | Diffusion-limited aggregation |
 | [**Emergent Dimension**](https://github.com/ratwolfzero/Emergent-Dimension) | Exploring dimensional emergence |
-| [**Fourier Analysis**](https://github.com/ratwolfzero/FFT) | Decomposing signals into sine waves |
+| [**Fourier Analysis**](https://github.com/ratwolfzero/FFT) | Unveiling signal content through frequency decomposition |
 | [**Henon Map**](https://github.com/ratwolfzero/Henon) | A chaotic dynamical system |
 | [**Hopalong Attractor**](https://github.com/ratwolfzero/hopalong_python) | A visually intriguing attractor |
 | [**Lorenz Attractor**](https://github.com/ratwolfzero/Lorenz) | A chaotic system that models atmospheric convection |
