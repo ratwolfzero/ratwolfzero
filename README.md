@@ -14,7 +14,7 @@ Welcome to this collection of **mathematical visualizations, chaos theory explor
 
 - [📌 Introduction](#-introduction)
 - [🔬 Mathematical Background](#-mathematical-background)
-- [🖥️ Projects Included](#-projects-included)
+- [🖥️ Projects Included](#-selection-of-projects-included)
 - [🧠 Behind the Math](#-behind-the-math)
 
 ---
