@@ -12,10 +12,10 @@ Welcome to this collection of **mathematical visualizations, chaos theory explor
 
 ## 📜 Table of Contents
 
-- [📌 Introduction](#introduction)
-- [🔬 Mathematical Background](#mathematical-background)
-- [🖥️ Selection of Projects Included](#selection-of-projects-included)
-- [🧠 Behind the Math](#behind-the-math)
+- [📌 Introduction](#-introduction)
+- [🔬 Mathematical Background](#-mathematical-background)
+- [🖥️ Selection of Projects Included](#-selection-of-projects-included)
+- [🧠 Behind the Math](#-behind-the-math)
 
 ---
 
