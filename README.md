@@ -43,7 +43,7 @@ Each project provides insights into how mathematics governs complex behavior in 
 | 📂 Project | 🔍 Description |
 |-----------|-------------|
 | [**3D Wave**](https://github.com/ratwolfzero/3D_Wave) | Simulation of wave dynamics in 3D |
-| [**Bifurcation Diagram**](https://github.com/ratwolfzero/Bifurcation) | Visualization of Feigenbaum’s constant |
+| [**Bifurcation Diagram**](https://github.com/ratwolfzero/Bifurcation) | Visualizing chaos and Feigenbaum’s constant in the logistic map |
 | [**Cellular Automaton**](https://github.com/ratwolfzero/Cellular-Automaton) | 2D grid-based simulations |
 | [**Collatz Conjecture**](https://github.com/ratwolfzero/Collatz) | Visualization of the famous Collatz sequence |
 | [**Cryptography**](https://github.com/ratwolfzero/Crypto) | Mathematical explorations in cryptography |
