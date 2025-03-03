@@ -9,7 +9,7 @@ Beauty is the first test: there is no permanent place in this world for ugly mat
 
 ![DLA](DLA.png)
 
-This collection showcases computational explorations in mathematics, uncovering patterns, structures, and dynamics across diverse mathematical systems. Through visualization, these projects bring mathematical beauty to life. Each project is a standalone exploration covering topics such as fractals, attractors, bifurcations, wave dynamics, mathematical games, iterative processes, physical pattern formation, and geometric design.
+This collection explores mathematical systems through computation, uncovering patterns, structures, and dynamics across diverse topics. Each standalone project visualizes mathematical beauty, spanning fractals, attractors, bifurcations, wave dynamics, mathematical games, iterative processes, physical pattern formation, and geometric design.
 
 
 ---
@@ -25,7 +25,7 @@ This collection showcases computational explorations in mathematics, uncovering 
 
 ## 📌 Introduction
 
-From the Mandelbrot Set to Fourier Analysis, Cellular Automata, and beyond, each repository uses computations to explore how simple rules give rise to intricate patterns, dynamic behaviors, and emergent complexity. Whether it’s the mesmerizing pathways of diffusion-limited aggregation, the enigmatic sequences of the Collatz Conjecture, or the symmetrical elegance of mathematical wallpaper, these projects reveal the hidden artistry of mathematics.
+From the Mandelbrot Set to Fourier Analysis, Cellular Automata, and beyond, these repositories reveal how simple rules generate intricate patterns, dynamic behaviors, and emergent complexity. Whether tracing diffusion-limited aggregation, unraveling the Collatz Conjecture, or designing mathematical wallpapers, each project highlights the hidden artistry of mathematics.
 
 ---
 
