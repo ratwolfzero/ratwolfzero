@@ -20,7 +20,7 @@ This collection explores mathematical systems through computation, uncovering pa
 - [🔬 Mathematical Structures & Patterns](#-mathematical-structures--patterns)
 - [🖥️ Projects Included](#️-projects-included)
 - [🚀 Explore the Beauty of Mathematics](#-explore-the-beauty-of-mathematics)
-- [MIT License](./LICENSE)
+- [⚖️ MIT License](./LICENSE)
 
 ---
 
