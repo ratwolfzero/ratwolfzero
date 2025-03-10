@@ -48,7 +48,7 @@ Each project offers a window into the hidden patterns and fundamental principles
 
 ---
 
-## 🖥️ Projects Included
+## 🖥️ Included Projects
 
 | 📂 Project | 🔍 Description |
 |------------|----------------|
