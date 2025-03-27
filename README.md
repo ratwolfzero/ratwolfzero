@@ -60,12 +60,15 @@ Each project offers a window into the hidden patterns and fundamental principles
 | [**DLA Aggregation**](https://github.com/ratwolfzero/DLA) | Diffusion-limited aggregation. |
 | [**Emergent Dimension**](https://github.com/ratwolfzero/Emergent-Dimension) | Exploring dimensional emergence. |
 | [**Fourier Analysis**](https://github.com/ratwolfzero/FFT) | Unveiling signal content through frequency decomposition. |
+| [**Golomb Ruler Fractals**](https://github.com/ratwolfzero/Golomb) | Fractal designs based on Golomb rulers. |
 | [**Henon Map**](https://github.com/ratwolfzero/Henon) | Chaotic dynamical system. |
 | [**Hopalong Attractor**](https://github.com/ratwolfzero/hopalong_python) | Visually intriguing attractor. |
 | [**Lorenz Attractor**](https://github.com/ratwolfzero/Lorenz) | Chaotic system that models atmospheric convection. |
 | [**Mandelbrot Set**](https://github.com/ratwolfzero/Mandelbrot) | Visualization of the famous fractal. |
 | [**Game of NIM**](https://github.com/ratwolfzero/NIM) | Mathematical game based on binary strategy. |
 | [**Wallpaper for the Mind**](https://github.com/ratwolfzero/Wallpaper_for_the_Mind) | Mathematical wallpaper generator. |
+
+---
 
 📌 *Click on each project link for more details.*
 
