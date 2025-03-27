@@ -60,7 +60,7 @@ Each project offers a window into the hidden patterns and fundamental principles
 | [**DLA Aggregation**](https://github.com/ratwolfzero/DLA) | Diffusion-limited aggregation. |
 | [**Emergent Dimension**](https://github.com/ratwolfzero/Emergent-Dimension) | Exploring dimensional emergence. |
 | [**Fourier Analysis**](https://github.com/ratwolfzero/FFT) | Unveiling signal content through frequency decomposition. |
-| [**Golomb Ruler Fractals**](https://github.com/ratwolfzero/Golomb) | Fractal designs based on Golomb rulers. |
+| [**Golomb Fractal**](https://github.com/ratwolfzero/Golomb) | Fractal designs with Golomb rulers. |
 | [**Henon Map**](https://github.com/ratwolfzero/Henon) | Chaotic dynamical system. |
 | [**Hopalong Attractor**](https://github.com/ratwolfzero/hopalong_python) | Visually intriguing attractor. |
 | [**Lorenz Attractor**](https://github.com/ratwolfzero/Lorenz) | Chaotic system that models atmospheric convection. |
