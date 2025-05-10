@@ -41,7 +41,8 @@ Key concepts explored in these projects:
 - **Mathematical Games & Patterns**: Strategy and computation in the Game of Nim and Cellular Automata.  
 - **Dimensional Exploration**: Investigating emergent dimensions and spatial structures.  
 - **Iterative Processes**: Sequences and behaviors from repeated rules, like the Collatz Conjecture.  
-- **Physical Pattern Formation**: Simple rules generating complex structures, as in diffusion-limited aggregation.  
+- **Physical Pattern Formation**: Simple rules generating complex structures, as in diffusion-limited aggregation.
+- **Quaternion Geometry**: Smooth 3D rotations using 4D algebra; revealing symmetry, stability, and the beauty of non-commutative transformations. 
 
 
 Each project offers a window into the hidden patterns and fundamental principles shaping mathematical systems.
