@@ -68,7 +68,7 @@ Each project offers a window into the hidden patterns and fundamental principles
 | [**Mandelbrot Set**](https://github.com/ratwolfzero/Mandelbrot) | Visualization of the famous fractal. |
 | [**Game of NIM**](https://github.com/ratwolfzero/NIM) | Mathematical game based on binary strategy. |
 | [**Wallpaper for the Mind**](https://github.com/ratwolfzero/Wallpaper_for_the_Mind) | Mathematical wallpaper generator. |
-| [**Penrose Tilings**](https://github.com/ratwolfzero/Penrose)) | A Recursive Journey into Aperiodic Beauty. |
+| [**Penrose Tilings**](https://github.com/ratwolfzero/Penrose) | A Recursive Journey into Aperiodic Beauty. |
 | [**Quaternion Rotation**](https://github.com/ratwolfzero/Quaternion_3D_Rotation) | Smooth 3D rotation with quaternions; avoids gimbal lock. |
 
 
