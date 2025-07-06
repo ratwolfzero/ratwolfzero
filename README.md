@@ -61,16 +61,16 @@ Each project offers a window into the hidden patterns and fundamental principles
 | [**DLA Aggregation**](https://github.com/ratwolfzero/DLA) | Diffusion-limited aggregation. |
 | [**Emergent Dimension**](https://github.com/ratwolfzero/Emergent-Dimension) | Exploring dimensional emergence. |
 | [**Fourier Analysis**](https://github.com/ratwolfzero/FFT) | Unveiling signal content through frequency decomposition. |
+| [**Game of NIM**](https://github.com/ratwolfzero/NIM) | Mathematical game based on binary strategy. |
 | [**Golomb Fractal**](https://github.com/ratwolfzero/Golomb) | Fractal designs with Golomb rulers. |
 | [**Henon Map**](https://github.com/ratwolfzero/Henon) | Chaotic dynamical system. |
 | [**Hopalong Attractor**](https://github.com/ratwolfzero/hopalong_python) | Visually intriguing attractor. |
 | [**Lorenz Attractor**](https://github.com/ratwolfzero/Lorenz) | Chaotic system that models atmospheric convection. |
 | [**Mandelbrot Set**](https://github.com/ratwolfzero/Mandelbrot) | Visualization of the famous fractal. |
-| [**Game of NIM**](https://github.com/ratwolfzero/NIM) | Mathematical game based on binary strategy. |
-| [**Wallpaper for the Mind**](https://github.com/ratwolfzero/Wallpaper_for_the_Mind) | Mathematical wallpaper generator. |
-| [**Weierstrass Fractal**](https://github.com/ratwolfzero/Weierstrass/tree/main/Fractal) | The Fractal Heart of Weierstrass. |
 | [**Penrose Tilings**](https://github.com/ratwolfzero/Penrose) | A Recursive Journey into Aperiodic Beauty. |
 | [**Quaternion Rotation**](https://github.com/ratwolfzero/Quaternion_3D_Rotation) | Smooth 3D rotation with quaternions; avoids gimbal lock. |
+| [**Wallpaper for the Mind**](https://github.com/ratwolfzero/Wallpaper_for_the_Mind) | Mathematical wallpaper generator. |
+| [**Weierstrass Fractal**](https://github.com/ratwolfzero/Weierstrass/tree/main/Fractal) | The Fractal Heart of Weierstrass. |
 
 
 ---
