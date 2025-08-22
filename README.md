@@ -89,4 +89,5 @@ Discover how simple rules give rise to intricate patterns, where order and rando
 ![Hopalong_2D](basic_1.png)
 ![Golomb](golomb_1.png)
 ![Weierstrass](fractal_1.png)
+![Weierstrass](Butterfly.png)
 ---
