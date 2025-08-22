@@ -64,6 +64,7 @@ Each project offers a window into the hidden patterns and fundamental principles
 | [**Game of NIM**](https://github.com/ratwolfzero/NIM) | Mathematical game based on binary strategy. |
 | [**Golomb Fractal**](https://github.com/ratwolfzero/Golomb) | Fractal designs with Golomb rulers. |
 | [**Henon Map**](https://github.com/ratwolfzero/Henon) | Chaotic dynamical system. |
+| [**Hofstadter Butterfly**](https://github.com/ratwolfzero/Hofstadter_Butterfly) | A Fractal in Quantum Physics. |
 | [**Hopalong Attractor**](https://github.com/ratwolfzero/hopalong_python) | Visually intriguing attractor. |
 | [**Lorenz Attractor**](https://github.com/ratwolfzero/Lorenz) | Chaotic system that models atmospheric convection. |
 | [**Mandelbrot Set**](https://github.com/ratwolfzero/Mandelbrot) | Visualization of the famous fractal. |
