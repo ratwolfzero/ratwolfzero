@@ -56,6 +56,7 @@ Each project offers a window into the hidden patterns and fundamental principles
 | [**3D Wave**](https://github.com/ratwolfzero/3D_Wave) | Simulation of wave dynamics in 3D. |
 | [**Bifurcation Diagram**](https://github.com/ratwolfzero/Bifurcation) | Visualizing chaos and Feigenbaum’s constant in the logistic map. |
 | [**Cellular Automaton**](https://github.com/ratwolfzero/Cellular-Automaton) | 2D grid-based simulations. |
+| [**Chladni Figures**](https://github.com/ratwolfzero/Chladni_Figures) | Unveiling the Hidden Geometry of Sound |
 | [**Collatz Conjecture**](https://github.com/ratwolfzero/Collatz) | Visualization of the famous Collatz sequence. |
 | [**Cryptography**](https://github.com/ratwolfzero/Crypto) | Mathematical explorations in cryptography. |
 | [**DLA Aggregation**](https://github.com/ratwolfzero/DLA) | Diffusion-limited aggregation. |
