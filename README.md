@@ -4,7 +4,7 @@
 the ideas, like the colors or the words, must fit together in a harmonious way.  
 Beauty is the first test: there is no permanent place in this world for ugly mathematics."
 
-– G. H. Hardy (1877–1947)
+Hardy, G. H. (1940). A mathematician’s apology. Cambridge University Press
 
 
 ![DLA](DLA.png)
